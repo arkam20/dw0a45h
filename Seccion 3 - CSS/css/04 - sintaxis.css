@@ -5,7 +5,14 @@ elemento {
 
 
 header {
-	width: 100%;
-	height: 50px;
 	background: red;
+	height: 50px;
+	width: 100%;
+}
+
+div {
+	background: blue;
+	height: 50px;
+	margin: 20px;
+	width: 50px;
 }
